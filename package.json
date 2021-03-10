@@ -1,0 +1,22 @@
+{
+  "name": "node_laba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amarinhobest/node_laba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amarinhobest/node_laba.git/issues"
+  },
+  "homepage": "https://github.com/Amarinhobest/node_laba.git#readme"
+}
